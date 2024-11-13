@@ -1,4 +1,4 @@
-### Voice Assistant Project
+# Voice Assistant Project
 ## Overview
 This project is a voice assistant application built using LiveKit for real-time audio streaming and OpenAI for natural language processing and response generation. The voice assistant can understand user queries and provide relevant responses, creating an interactive and intuitive user experience.
 
