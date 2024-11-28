@@ -21,3 +21,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 LiveKit for providing the real-time audio streaming capabilities.
 
 OpenAI for their powerful natural language processing API.
+
+## Connect me 
+anithprakashan321@gmail.com
