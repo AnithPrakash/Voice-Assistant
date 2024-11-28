@@ -23,5 +23,5 @@ LiveKit for providing the real-time audio streaming capabilities.
 OpenAI for their powerful natural language processing API.
 
 ## Connect me 
-anithprakashan321@gmail.com
-[a link](https://www.linkedin.com/in/anithprakash/)
+anithprakashan321@gmail.com | 
+[LinkedIN](https://www.linkedin.com/in/anithprakash/)
